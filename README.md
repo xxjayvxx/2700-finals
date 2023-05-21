@@ -1,4 +1,4 @@
 # Final Examination - CCS 2700 Laboratory
-## Screenshot of Database:
+## Screenshot #1:
 
-## Screenshot of Wordpress article:
+## Screenshot #2:
